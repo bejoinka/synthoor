@@ -18,3 +18,8 @@ dependencies = [
     "python-rtmidi==1.5.8",
     "jupyter"
 ]
+
+[dependency-groups]
+dev = [
+    "pygame>=2.6.1",
+]
